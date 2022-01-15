@@ -11,26 +11,26 @@ Django app to register,login and logout user  ,geting products from database and
 ## URLs to target:
   - to register a user
     - localhost:8000/api/register/
-
+	<p align="center"> <img src="./screens/register.png"> </p>
   - to login a user
     - localhost:8000/api/login/
-
+	<p align="center"> <img src="./screens/register.png"> </p>
   - to logout a user
     - localhost:8000/api/logout/
-
+	<p align="center"> <img src="./screens/register.png"> </p>
   - to get product
     - localhost:8000/api/product/
-
+	<p align="center"> <img src="./screens/register.png"> </p>
   - to filter by user
     - localhost:8000/api/product/?search
-
+	<p align="center"> <img src="./screens/register.png"> </p>
   - to order by price ascending
     - localhost:8000/api/product/?ordering=price
-
+	<p align="center"> <img src="./screens/register.png"> </p>
   - to order by price dscending
     - localhost:8000/api/product/?ordering=-price
 
-
+	<p align="center"> <img src="./screens/register.png"> </p>
 
 
 ## Useful commands:
